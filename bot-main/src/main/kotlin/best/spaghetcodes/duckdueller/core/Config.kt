@@ -56,7 +56,8 @@ object Config {
     @Expose var sendWebhookStats = false
     @Expose var sendWebhookDodge = false
     @Expose var boxingFish = false
-    val bots = mapOf(0 to Sumo(), 1 to Boxing(), 2 to Classic(), 3 to OP(), 4 to Combo())
+    @Expose var enableHitselect: Boolean = false
+    
 
     init {
         load()
