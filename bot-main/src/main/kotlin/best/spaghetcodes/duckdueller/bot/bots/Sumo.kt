@@ -65,6 +65,22 @@ class Sumo : BotBase("/play duels_sumo_duel") {
             ChatUtils.info("Jumpreset")
         }
     }
+    // hitselect D:
+fun onTakeDamage() {
+
+if (mc.thePlayer.hurtTime > 0 && currentTarget !=
+if (canHitTarget(currentTarget!!)) {
+attackTarget(currentTarget!!)
+ChatUtils.info(“Hitselecting”)
+}
+}
+}
+
+// Alternative implementation 
+fun allowEnemyFirstHit(): Boolean {
+// Let opponent hit first if we haven’t hit them yet
+return !hasHitEnemy && enemyIsClose()
+}
 
     override fun onAttack() {
         if (!tapping) {
