@@ -1,69 +1,82 @@
-![alt](https://raw.githubusercontent.com/HumanDuck23/upload-stuff-here/main/DuckDuellerBanner.png)
+![alt](https://i.imgur.com/Qh3WJQt.jpeg)
 
 <h3 align="center" style="color: #ff4949">
-Duck Dueller has reached the end of active development. 
-I might make updates sometimes, but official support has ended.
+Charizard is a powerful Hypixel Duels bot with custom enhancements.
 <br><br>
-I will be collaborating on a new bot, keep checking back for a link to that.
+Featuring custom GUI, enhanced movement, and refined gameplay mechanics.
 </h3>
 
 <h2 align="center">
-What is Duck Dueller?
+What is Charizard?
 </h2>
-Duck Dueller is a free and open-source Hypixel Duels bot, designed to work for Forge 1.8.9! It is planned to support many modes and is highly customizable!
+Charizard is a free and open-source Hypixel Duels bot designed to work for Forge 1.8.9! It features a custom GUI, enhanced sumo mechanics, jump reset functionality, and superior movement algorithms!
 
 <h2 align="center">
    What gamemodes are supported?
 </h2>
 
-- ✅ Sumo
+- ✅ Sumo (Enhanced)
 - ✅ Classic
 - ✅ Boxing
 - 🚧 OP
 
-*Note: these are the modes the bot will definitely support. There might be more!*
+*Note: Sumo mode has been significantly improved with better movement patterns and edge detection.*
 
 <h2 align="center">
    What features does it have?
 </h2>
 
+- ✅ **Custom GUI** - Brand new interface design
+- ✅ **Enhanced Sumo Improvements** - Better gameplay mechanics
+- ✅ **Jump Reset** - Advanced movement technique
+- ✅ **Improved Movement** - Superior pathfinding and positioning
 - ✅ Queue Dodging
 - ✅ Smart Aim
 - ✅ Smart Strafe
 - ✅ Edge Detection
 - ✅ W-Tap
-- ✅ Pre-Game Movement (Sumo only for now, sorry!)
+- ✅ Pre-Game Movement
 - ✅ Bow & rod usage
 - ✅ Many failsafes
 - ✅ Hidden from modlist sent to Hypixel
 - ✅ Discord Webhook Integration
-- ✅ Highly Customizable :D
+- ✅ Highly Customizable
+
+<h2 align="center">
+   What's special about Charizard?
+</h2>
+
+- 🔥 **Custom GUI** - Complete custom interface design
+- 🔥 **Sumo Improvements** - Enhanced gameplay mechanics and strategies
+- 🔥 **Jump Reset** - Advanced movement technique for better combos
+- 🔥 **Better Movement** - Superior pathfinding and positioning algorithms
+- 🔥 **Optimized Code** - Streamlined performance without unnecessary features
 
 <h2 align="center">
    Are there any known issues?
 </h2>
-This bot is, of course, not perfect. Here is a list of issues I am currently aware of and will eventually fix (these aren't breaking issues):
+This bot is continuously being improved. Here are currently known issues:
 
 - Bot dodges players that left the queue
+- Some movement optimizations still in development
 
 <h2 align="center">
    Where can I download it?
 </h2>
 
-Right now there is no release JAR file for you to download, this is because I'm still testing the modes I have currently implemented before making a beta release! If you still want to use it, you'll have to download this repo and compile it yourself.
+Right now there is no release JAR file for you to download, as Charizard is still in active development with ongoing improvements! If you want to use it, you’ll have to download this repo and compile it yourself.
 
 <h2 align="center">
    How do I know if it's any good?
 </h2>
 
-Here's a demonstration video of the bot playing sumo: [Introducing Duck Dueller](https://www.youtube.com/watch?v=4939onPBd4Y).
-Videos of the other modes will also be released at some point.
+Charizard features advanced algorithms and custom-built mechanics designed for optimal performance in Hypixel Duels. The enhanced sumo mode, jump reset functionality, and custom GUI provide a superior user experience.
 
 <h2 align="center">
    Can I contribute?
 </h2>
-Sure! Any contributions are greatly appreciated! Just fork this repo and open a pull request with your changes.
+Absolutely! Any contributions are greatly appreciated! Just fork this repo and open a pull request with your changes. Help make Charizard even better!
 
 <hr/>
 
-Duck Dueller now has a discord server! Join it [here](https://discord.gg/aZZ4UKEnTn)!
+Charizard is a powerful and feature-rich Hypixel Duels bot with custom enhancements and optimized performance!
